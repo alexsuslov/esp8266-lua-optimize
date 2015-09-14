@@ -8,7 +8,7 @@ local compileRemove = function(f)
   end
 end
 
-for k in pairs(file.list()) do
-	compileRemove(k)
+for f in pairs( file.list() ) do
+	compileRemove(f)
 end
 

@@ -4,7 +4,8 @@
 
 ## Install
 ```bash
-wget 
+wget https://raw.githubusercontent.com/alexsuslov/esp8266-lua-optimize/master/dofile.lua
+wget https://raw.githubusercontent.com/alexsuslov/esp8266-lua-optimize/master/optimize.lua
 ```
 
 ## Use
